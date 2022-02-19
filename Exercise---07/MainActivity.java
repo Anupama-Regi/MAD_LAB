@@ -36,25 +36,3 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
-
-package com.example.exercise_5;
-
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.os.Bundle;
-import android.widget.Button;
-import android.view.View;
-import android.widget.TextView;
-
-public class MainActivity extends AppCompatActivity {
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-
-      		}
-
-        });
-
-    }
-}
